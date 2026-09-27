@@ -1,0 +1,14 @@
+# Raw image sources and reference repositories
+pratibimb2025_jpgs/
+sketchbook/
+scripts/
+
+# OS files
+.DS_Store
+.git/
+.gitignore
+
+# Python files
+*.py
+*.pyc
+__pycache__/

@@ -1,0 +1,16 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Large raw source images (not needed for deployment)
+pratibimb2025_jpgs/
+sketchbook/
+
+# Python cache & scripts output
+__pycache__/
+*.pyc
+*.pyo
+
+# Vercel
+.vercel
